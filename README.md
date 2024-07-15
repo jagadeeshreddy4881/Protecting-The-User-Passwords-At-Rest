@@ -203,4 +203,6 @@ Step 5: The folder was successfully decrypted.
 
 ## Contact
 For any questions or issues, please contact Shukoor at 
-jbusired@gitam.in &  adomma@gitam.in.
+BUSIREDDY JAGADEESHWAR REDDY (jbusired@gitam.in) 
+& 
+DOMMA ANIL KUMAR (adomma@gitam.in.)
