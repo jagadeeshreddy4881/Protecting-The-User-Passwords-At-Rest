@@ -59,16 +59,19 @@ In conclusion, protecting user password keys at rest is an essential aspect of s
 
 1. **Clone the repository:**
 
-    ```bash
-    
-[(https://github.com/jagadeeshreddy4881/Protecting-The-User-Passwords-At-Rest.git)](https://github.com/jagadeeshreddy4881/Protecting-The-User-Passwords-At-Rest.git) or
-https://github.com/AnilKumar109109/intel]
+   ```bash
+    (https://github.com/jagadeeshreddy4881/Protecting-The-User-Passwords-At-Rest.git
+    or
+   https://github.com/AnilKumar109109/intel
+    cd project-repo
     ```
+
     ![image](https://github.com/user-attachments/assets/def8dabe-907d-408e-b07f-b40b8c168de0)
     
 
 2. •	Next we need to run ls to see what is in the directory
 ![image](https://github.com/user-attachments/assets/d70fc59a-eeba-4f7d-95cb-4ae226855964)
+
 3.•	Next we need to run cd intel in order to enter the directory.
 ![image](https://github.com/user-attachments/assets/d9e426e3-af87-4f10-95a8-811efa30f8fe)
 
@@ -103,18 +106,26 @@ project-repo/
 ### Encryption Process
 
 Step 1: Upon Successful implementation of the Python program in the VSCode, the File Encryptor/ Decryptor  dialog box will appear on the screen.
+
 ![image](https://github.com/user-attachments/assets/ab64cc1a-db84-444a-b811-fafa0fa400e9)
+
 Step 2: click Browse File to browse the file that you need to encrypt.
+
 Step 3: Select which file you need to encrypt.
 ![image](https://github.com/user-attachments/assets/07bb56a7-a8ee-489a-a269-b559b6c6b20b)
+
 Step 4: Select which file you need to encrypt. click open.
 ![image](https://github.com/user-attachments/assets/a8bb0276-ee6d-48a2-9860-a00a86892b33)
+
 Step 5: click encrypt.
 ![image](https://github.com/user-attachments/assets/655a9ce7-a472-46f2-a1c4-6ba6f10c428b)
+
 Step 6: Enter the Passphrase for Encryption
 ![image](https://github.com/user-attachments/assets/2e44cf3a-51e3-48d2-87f2-81e579ad102a)
+
 Step 7: After entering the passphrase, encryption is completed successfully.
 ![image](https://github.com/user-attachments/assets/0dfa2562-6a07-41ff-80dd-b90d875112a8)
+
 Step 8: After encryption, an encrypted file and key file are generated.
 ![image](https://github.com/user-attachments/assets/37143507-ae67-4fba-8021-8115c254f9f1)
 
@@ -125,26 +136,36 @@ Step 8: After encryption, an encrypted file and key file are generated.
 FILE DECRYPTION PROCESS:
 Step 1: Click OK and then browse the file you need to decrypt.
 ![image](https://github.com/user-attachments/assets/1f2a61b9-2bd1-4b2d-ab54-2a5fc3997706)
+
 Step 2: After selecting the encrypted file, click open.
 ![image](https://github.com/user-attachments/assets/f8c47752-3966-4ed8-b2dd-69fca199a9ac)
+
 Step 3: click Decrypt to decrypt the encrypted file
 ![image](https://github.com/user-attachments/assets/201f2d72-2e5a-4ec0-81bc-dbe930215c56)
+
 Step 4: After entering the passphrase for decryption, click ok.
+
 Step 5: After clicking OK, the file was successfully decrypted.
 ![image](https://github.com/user-attachments/assets/2e3f3c99-4b51-4b9b-a5e5-16c328f5583c)
 
 ![image](https://github.com/user-attachments/assets/32eccfe3-fa8f-4502-b9de-612a76ba69e5)
 
 **FOLDER ENCRYPTION PROCESS:**
+
 Step 1: Click browse folder to encrypt the folder 
 ![image](https://github.com/user-attachments/assets/aca83fa4-5cf8-49dd-8948-7fe617b08b2d)
+
 Step 2: Select the folder  and click select folder
 ![image](https://github.com/user-attachments/assets/e2a009c3-03ed-4980-9fec-0f78ce52bde1)
+
 Step 3: Click encrypt to encrypt the folder
+
 Step 4: After entering the passphrase for encryption click OK.
+
 Step 5: After clicking "OK," the folder was successfully
 encrypted.
 ![image](https://github.com/user-attachments/assets/3df83227-508a-40ba-8087-48d83ebabd49)
+
 Step 6: The encrypted folder “folder.ept” was generated.
 ![image](https://github.com/user-attachments/assets/db85bd8d-a87a-465b-81dd-a55c0243fe7f)
 
@@ -154,12 +175,16 @@ Step 6: The encrypted folder “folder.ept” was generated.
 **FOLDER DECRYPTION PROCESS:**
 Step 1: Click Browse Folder to decrypt the folder.
 ![image](https://github.com/user-attachments/assets/b0c9abf8-1543-4301-917d-08462a652a68)
+
 Step 2: After selecting an encrypted folder, click select folder.
 ![image](https://github.com/user-attachments/assets/747b6fe9-ad97-48b7-9dd6-5e1eaffb8656)
+
  Step 3: Click Decrypt to decrypt the folder.
  ![image](https://github.com/user-attachments/assets/91acb89a-b024-4ec4-ab0f-5fbfbdb952a2)
+ 
 Step 4: After entering the passphrase for decryption click OK
 ![image](https://github.com/user-attachments/assets/697c424a-bee1-4511-9b0e-68195d0cbba4)
+
 Step 5: The folder was successfully decrypted.
  ![image](https://github.com/user-attachments/assets/77f88c6a-fd8f-4eb8-a27a-ac8f9febbf68)
  
