@@ -1,4 +1,4 @@
-# **Protecting User Password Keys at Rest (on the Disk)**
+o# **Protecting User Password Keys at Rest (on the Disk)**
 
 ![Intel Logo](https://logodownload.org/wp-content/uploads/2014/04/intel-logo-5-1.png)
 
@@ -7,6 +7,7 @@
 
 ## **Project Overview**
 
+video link: https://drive.google.com/file/d/1ntTxX3s6ZN2GdaghtmI2-SgAXpX7AzwA/view?usp=sharing
 
 protecting user password keys at rest is paramount to ensuring the security and privacy of personal and sensitive information. "At rest" refers to data stored on a device or in a database, as opposed to data  actively being transferred across networks.
 Several key factors drive the need for robust protection mechanisms for user password keys:
